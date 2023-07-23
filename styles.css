@@ -54,6 +54,7 @@ body{
 #clear-btn{
     border: 5px solid violet;
     border-radius: 10px;
+    height: 85px;
 }
 
 #clear-btn:hover{
